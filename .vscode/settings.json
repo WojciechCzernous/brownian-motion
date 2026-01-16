@@ -19,6 +19,9 @@
     "files.readonlyInclude": {
         "**/.elan/**": true,
         "**/.lake/**": true
+    },
+    "chat.tools.terminal.autoApprove": {
+        "lake": true
     }
 
 }
